@@ -10,7 +10,7 @@ import practica_inteligencia_artificial01.State.position;
 
 /**
  *
- * @author kandas
+ * @author Raymundo Miguel Espitia Ascencio 
  */
 public class transition {
 

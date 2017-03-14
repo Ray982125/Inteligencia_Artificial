@@ -10,7 +10,7 @@ import javax.swing.text.Position;
 
 /**
  *
- * @author kandas
+ * @author Raymundo Miguel Espitia Ascencio 
  */
 public class State {
 
